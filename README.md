@@ -8,7 +8,7 @@
 
 软件界面显示
 
-![](https://github.com/2226171237/MLView/blob/master/img/1.png?raw=true)
+![](https://github.com/2226171237/MLView/blob/master/img/1.png?raw=true =200x300)
 
 ![](https://github.com/2226171237/MLView/blob/master/img/2.png?raw=true)
 

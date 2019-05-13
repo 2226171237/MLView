@@ -7,9 +7,9 @@
 
 
 软件界面显示
-![]("./img/1.png")
-![]("./img/2.png")
-![]("./img/3.png")
-![]("./img/4.png")
+![]("https://github.com/2226171237/MLView/blob/master/img/1.png")
+![]("https://github.com/2226171237/MLView/blob/master/img/1.png")
+![]("https://github.com/2226171237/MLView/blob/master/img/1.png")
+![]("https://github.com/2226171237/MLView/blob/master/img/1.png")
 
 

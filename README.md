@@ -7,13 +7,13 @@
 
 
 软件界面显示
+<img src="https://github.com/2226171237/MLView/blob/master/img/1.png?raw=true" width="200" hegiht="313" align=center />
 
-![](https://github.com/2226171237/MLView/blob/master/img/1.png?raw=true =200x300)
+<img src="https://github.com/2226171237/MLView/blob/master/img/2.png?raw=true" width="200" hegiht="313" align=center />
 
-![](https://github.com/2226171237/MLView/blob/master/img/2.png?raw=true)
+<img src="https://github.com/2226171237/MLView/blob/master/img/3.png?raw=true" width="200" hegiht="313" align=center />
 
-![](https://github.com/2226171237/MLView/blob/master/img/3.png?raw=true)
+<img src="https://github.com/2226171237/MLView/blob/master/img/4.png?raw=true" width="200" hegiht="313" align=center />
 
-![](https://github.com/2226171237/MLView/blob/master/img/4.png?raw=true)
 
 

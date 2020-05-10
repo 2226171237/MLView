@@ -9,13 +9,13 @@
 软件界面显示
 
 
-<img src="/img/1.png" width="60%" hegiht="80%" align=center />
+<img src="https://github.com/2226171237/MLView/blob/master/img/1.png" width="60%" hegiht="80%" align=center />
 
-<img src="/img/2.png" width="60%" hegiht="80%" align=center />
+<img src="https://github.com/2226171237/MLView/blob/master/img/2.png" width="60%" hegiht="80%" align=center />
 
-<img src="/img/3.png" width="60%" hegiht="80%" align=center />
+<img src="https://github.com/2226171237/MLView/blob/master/img/3.png" width="60%" hegiht="80%" align=center />
 
-<img src="/img/4.png" width="60%" hegiht="80%" align=center />
+<img src="https://github.com/2226171237/MLView/blob/master/img/4.png" width="60%" hegiht="80%" align=center />
 
 
 
